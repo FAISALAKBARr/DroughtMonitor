@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, saepe a. Quod eos non, dolores sapiente dicta quam esse reprehenderit explicabo vitae nesciunt ut laborum harum, vel optio corporis voluptatem?",
+      "image": "People2",
+      "name": "People 2",
+      "skill": "Flutter Developer"
+    },
+    {
+      "id": "3",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, saepe a. Quod eos non, dolores sapiente dicta quam esse reprehenderit explicabo vitae nesciunt ut laborum harum, vel optio corporis voluptatem?",
+      "image": "People3",
+      "name": "People 3",
+      "skill": "Web Developer"
+    },
+    {
+      "id": "4",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, saepe a. Quod eos non, dolores sapiente dicta quam esse reprehenderit explicabo vitae nesciunt ut laborum harum, vel optio corporis voluptatem?",
+      "image": "People1",
+      "name": "People 4",
+      "skill": "UI UX Designer"
+    },
+    {
+      "id": "5",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, saepe a. Quod eos non, dolores sapiente dicta quam esse reprehenderit explicabo vitae nesciunt ut laborum harum, vel optio corporis voluptatem?",
+      "image": "People2",
+      "name": "People 5",
+      "skill": "Flutter Developer"
+    },
+    {
+      "id": "6",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, saepe a. Quod eos non, dolores sapiente dicta quam esse reprehenderit explicabo vitae nesciunt ut laborum harum, vel optio corporis voluptatem?",
+      "image": "People3",
+      "name": "People 6",
+      "skill": "Web Developer"
+    },
+    {
+      "id": "7",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, saepe a. Quod eos non, dolores sapiente dicta quam esse reprehenderit explicabo vitae nesciunt ut laborum harum, vel optio corporis voluptatem?",
+      "image": "People1",
+      "name": "People 7",
+      "skill": "UI UX Designer"
+    },
+    {
+      "id": "8",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, saepe a. Quod eos non, dolores sapiente dicta quam esse reprehenderit explicabo vitae nesciunt ut laborum harum, vel optio corporis voluptatem?",
+      "image": "People2",
+      "name": "People 8",
+      "skill": "Flutter Developer"
+    },
+    {
+      "id": "9",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, saepe a. Quod eos non, dolores sapiente dicta quam esse reprehenderit explicabo vitae nesciunt ut laborum harum, vel optio corporis voluptatem?",
+      "image": "People3",
+      "name": "People 9",
+      "skill": "Web Developer"
+    },
+    {
+      "id": "10",
+      "desc": "Bencana Kekeringan banyak terjadi di kabupaten bekasi",
+      "image": "Gaada",
+      "name": "Nopal",
+      "skill": "Mahasiswa"
+    },
+    {
+      "id": "11",
+      "desc": "Pada tanggal 8 Januari 2025, saya, Mochamad Faisal Akbar, melaporkan bahwa wilayah Desa Sukamaju, Kecamatan Purworejo, mengalami bencana kekeringan yang cukup parah. Kekeringan ini telah berlangsung selama 3 bulan terakhir akibat musim kemarau yang berkepanjangan",
+      "image": "-",
+      "name": "Basuki Chaya Rohadi",
+      "skill": "Ketua Tim Relawan Kemanusiaan"
+    },
+    {
+      "id": "aece",
+      "desc": "Kecamatan Cisarua, mengalami kekeringan parah selama tiga bulan terakhir akibat musim kemarau yang berkepanjangan. Kekeringan ini menyebabkan sumur warga mengering, lahan pertanian gagal panen, dan penduduk mengalami kesulitan mendapatkan air bersih. Upaya pemerintah desa berupa pengiriman air bersih melalui truk tangki belum mencukupi kebutuhan masyarakat, sehingga diperlukan bantuan tambahan untuk mengatasi krisis ini.",
+      "image": "Gambar: Penduduk Kecamatan Cisarua mengantre untuk mendapatkan air bersih di dekat tangki air dengan latar belakang lahan pertanian yang kering",
+      "name": "Bambang Saptaji",
+      "skill": "Reporter"
+    },
+    {
+      "id": "9800",
+      "desc": "Kekeringan di daerah sukoharjo",
+      "image": "",
+      "name": "Pak didie",
+      "skill": "Kontol"
+    }
+  ]
+}
